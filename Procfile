@@ -1,1 +1,1 @@
-web: hexo server -d
+web: hexo server
