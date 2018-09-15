@@ -8,13 +8,13 @@ subtitle: Subtitle goes here
 description: Add a description
 keywords: Keywords that can be used for search engines
 author: Leslie Logan Sadler
-language: English
-timezone: EST
+language: en
+timezone: America/New_York
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://notyoursupermommy.com
-root: /
+url: http://notyoursupermommy.com/blog
+root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
