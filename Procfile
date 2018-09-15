@@ -1,1 +1,1 @@
-web: hexo server
+web: hexo server -p 443
